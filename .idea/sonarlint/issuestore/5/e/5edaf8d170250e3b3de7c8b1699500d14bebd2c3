@@ -1,0 +1,8 @@
+
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÌÑ¶†8”–®Ù0
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×œ‹
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(áä¼ùÿÿÿÿ8«¾ËÙ0
+ssquid:S1149$"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(çşĞîüÿÿÿÿ8«¾ËÙ0
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(îÄæ«şÿÿÿÿ8‹ë¿Ù0
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒë¶ùÿÿÿÿ8ûæ«Ù0

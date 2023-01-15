@@ -1,0 +1,8 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ÁÆš
+Hsquid:S1481",Remove this unused "charArr" local variable.(„¶¬íùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨ˆí¬ùÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "charArr".(„¶¬íùÿÿÿÿ
+?squid:S1125"(Remove the literal "true" boolean value.(ñòåÓ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú¨×öÿÿÿÿÿ

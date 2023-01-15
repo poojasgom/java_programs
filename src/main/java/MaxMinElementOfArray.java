@@ -14,7 +14,7 @@ Output: Minimum element is: 1
 Input: arr[] = {22, 14, 8, 17, 35, 3}
 Output:  Minimum element is: 3
               Maximum element is: 35
-
+//Clue : pair.
 Time Complexity: O(n) - each item visited once.
 Auxiliary Space: O(log n) as the stack space will be filled for the maximum height of the tree formed during recursive calls same as a binary tree.
  */
