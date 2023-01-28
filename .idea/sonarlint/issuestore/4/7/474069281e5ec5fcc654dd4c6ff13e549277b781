@@ -1,0 +1,11 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¨À¬øÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(¶§´ğ
+Qsquid:S2209K"5Change this instance-reference to a static reference.(ú¹üÿÿÿÿ
+Lsquid:S2209L"5Change this instance-reference to a static reference.(Œè¸
+Lsquid:S2209M"5Change this instance-reference to a static reference.(ïµğä
+Lsquid:S2209N"5Change this instance-reference to a static reference.(ûñ±®
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ä¸øä
+Lsquid:S2209O"5Change this instance-reference to a static reference.(ä¸øä
+Qsquid:S2209P"5Change this instance-reference to a static reference.(ëÉÆıÿÿÿÿ

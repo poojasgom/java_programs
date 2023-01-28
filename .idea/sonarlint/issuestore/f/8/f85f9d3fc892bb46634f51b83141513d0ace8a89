@@ -1,0 +1,33 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¨À¬øÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(æì€óùÿÿÿÿ
+5squid:S3010" Remove this assignment of "arr".(ër
+8squid:S3010"!Remove this assignment of "size".(Â¼€œ
+9squid:S3010""Remove this assignment of "front".(¾ÿª
+=squid:S3010"!Remove this assignment of "rear".(¾õ¨Ğüÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ş…ËÎ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ş…ËÎ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(»ıéŠùÿÿÿÿ
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(»ıéŠùÿÿÿÿ
+;squid:S2440N"%Remove this instantiation of "Queue".(ï•—
+Qsquid:S2209P"5Change this instance-reference to a static reference.(Çñı°üÿÿÿÿ
+Qsquid:S2209Q"5Change this instance-reference to a static reference.(›ÌÆşÿÿÿÿ
+Qsquid:S2209R"5Change this instance-reference to a static reference.(”éíÎùÿÿÿÿ
+O
+squid:S106T"9Replace this use of System.out or System.err by a logger.(£§µ¢
+Lsquid:S2209T"5Change this instance-reference to a static reference.(£§µ¢
+Lsquid:S2209U"5Change this instance-reference to a static reference.(Ÿš¯ğ
+O
+squid:S106V"9Replace this use of System.out or System.err by a logger.(£§µ¢
+Lsquid:S2209V"5Change this instance-reference to a static reference.(£§µ¢
+Qsquid:S2209W"5Change this instance-reference to a static reference.(«òŠşÿÿÿÿÿ
+Qsquid:S2209X"5Change this instance-reference to a static reference.(…ëäıÿÿÿÿ
+O
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(Á‘‘û
+Lsquid:S2209Y"5Change this instance-reference to a static reference.(Á‘‘û
+Qsquid:S2209Z"5Change this instance-reference to a static reference.(òôÇªùÿÿÿÿ
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(®çÅ÷ıÿÿÿÿ

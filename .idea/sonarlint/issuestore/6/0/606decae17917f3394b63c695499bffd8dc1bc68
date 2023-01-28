@@ -1,0 +1,9 @@
+
+1squid:S1220""Move this file to a named package.
+Xsquid:UselessImportCheck"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ðˆÌïüÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê÷Ñž
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×Øû‘þÿÿÿÿ
