@@ -1,0 +1,5 @@
+
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ªıáİûÿÿÿÿ8–—ŒÖß0
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©Ãìøÿÿÿÿ
+squid:S1319"oThe type of the "path" object should be an interface such as "List" rather than the implementation "ArrayList".(¡¢Ê8‹´øÕß0
