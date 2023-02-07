@@ -21,5 +21,6 @@ public static int findPivotValue(int[] arr){
   public static void main(String[] args) {
     int x[] = {1,7,3,6,5,6};
     System.out.println(findPivotValue(x));
+
   }
 }
