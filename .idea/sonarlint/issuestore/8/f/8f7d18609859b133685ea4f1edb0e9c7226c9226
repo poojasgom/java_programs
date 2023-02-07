@@ -1,0 +1,5 @@
+
+8squid:S1220""Move this file to a named package.8¿“ñà0
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¿“ñà0
+Isquid:S1481 "&Remove this unused "x" local variable.(À÷¾˜ûÿÿÿÿ8¿“ñà0
+nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(×ß¤¬üÿÿÿÿ8¿“ñà0
