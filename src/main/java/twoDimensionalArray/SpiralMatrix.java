@@ -39,12 +39,16 @@ public class SpiralMatrix {
   }
 
   public static void main(String[] args) {
-    int matrix[][] = { {1, 2, 3, 4,6},
+   /* int matrix[][] = { {1, 2, 3, 4,6},
         { 5, 6,  7,  8,6},
         {9, 10, 11, 12, 6},
         {13, 14, 15, 16, 6},
         {17, 18, 19, 20, 6},
-        {22, 28, 29, 30, 6}};
+        {22, 28, 29, 30, 6}};*/
+    int matrix[][] = {{1,2,3,4},
+                      {5,6,7,8},
+                     {9,10,11,12}};
+
 
     printSpiralMatrix(matrix);
   }
